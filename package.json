@@ -1,0 +1,19 @@
+{
+  "name": "zublime",
+  "version": "0.0.1",
+  "description": "Zublime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgte/zublime.git"
+  },
+  "author": "pgte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgte/zublime/issues"
+  },
+  "homepage": "https://github.com/pgte/zublime#readme"
+}
